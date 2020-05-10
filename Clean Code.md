@@ -645,3 +645,19 @@ Todo sabemos que TDD nos pide que primero creemos las pruebas de unidad, antes q
 
 ### Clean Test
 
+### F.I.R.S.T
+
+- Fast
+- Independent
+- Repeteable
+- Self-Validating
+- Timely
+
+## Clases
+
+### Dependency Inversion Principle (DIP)
+
+- Básicamente afirma que nuestras clases deben depender de abstracciones, no de detalles concretos.
+
+## Sistemas
+
